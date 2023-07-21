@@ -1,2 +1,0 @@
-exports.barop = barop;
-
